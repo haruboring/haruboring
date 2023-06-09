@@ -4,4 +4,4 @@
 
 I am a student of Tokyo Institute of Technology.
 
-My major is NLP and I belong to [Okumura Laboratory](https://lr-www.pi.titech.ac.jp/wp/).
+My major is NLP/ML and I belong to [Okumura Laboratory](https://lr-www.pi.titech.ac.jp/wp/).
