@@ -5,5 +5,3 @@
 I am a student of Tokyo Institute of Technology.
 
 My major is NLP/ML and I belong to [Okumura Laboratory](https://lr-www.pi.titech.ac.jp/wp/).
-
-AtCoder: A水H緑([LiKaf](https://atcoder.jp/users/LiKaf))
